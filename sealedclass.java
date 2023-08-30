@@ -16,7 +16,7 @@ final class Cat extends Animal{
     }
 }
 
-public class staticFinal {
+public class sealedclass {
         public static  void main(String[] args){
 
         Dog dog = new Dog();
